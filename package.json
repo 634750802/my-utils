@@ -1,0 +1,10 @@
+{
+  "name": "my-utils",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "workspaces": [
+    "packages/oh-versions"
+  ]
+}
